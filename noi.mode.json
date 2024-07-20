@@ -1,0 +1,390 @@
+{
+  "name": "Noi User Mode",
+  "mode_main": "https://www.midjourney.com/home",
+  "mode_tray": "https://chat.openai.com",
+  "mode_partition": "",
+  "ua_main": "",
+  "ua_tray": "",
+  "noi_ask": [],
+  "modes": [
+    {
+      "id": "3eae38dc32ed4b0f9e7578bc0a12da9c",
+      "parent": "noi@design",
+      "dir": true,
+      "text": "Text to Speech"
+    },
+    {
+      "id": "73f953ad362a41c4b92f5ea192aa8334",
+      "parent": "3eae38dc32ed4b0f9e7578bc0a12da9c",
+      "text": "Create speech AI - elevenlabs.io",
+      "url": "https://elevenlabs.io/"
+    },
+    {
+      "id": "be3994d32aad45fa89b020b51bf9cbec",
+      "parent": "3eae38dc32ed4b0f9e7578bc0a12da9c",
+      "text": "Text to Speech - ttsopenai.com",
+      "url": "https://ttsopenai.com/"
+    },
+    {
+      "id": "5584eafea15149cbaa5ced12def2c466",
+      "parent": "38707893e157447b8a5ba6c834419ae6",
+      "text": "Find the best Ai Tools - Futurepedia.io",
+      "url": "https://www.futurepedia.io/"
+    },
+    {
+      "id": "ab6d9e64ab974a069504eea54102dcaf",
+      "parent": "38707893e157447b8a5ba6c834419ae6",
+      "text": " Collects & Organizes All The Best AI Tools - futuretools.io",
+      "url": "https://www.futuretools.io/"
+    },
+    {
+      "id": "38707893e157447b8a5ba6c834419ae6",
+      "parent": "noi@ai",
+      "dir": true,
+      "text": "Centralizadores"
+    },
+    {
+      "id": "ae143e2d0533430ead9b91928b69ee4b",
+      "parent": "d2f107aea8af499aa7610d2095ccd6e2",
+      "text": "No-Code AI automations platform - vectorshift.ai",
+      "url": "https://vectorshift.ai/"
+    },
+    {
+      "id": "dc1d351badce48c4a2e0d0b744ace6b2",
+      "parent": "d2f107aea8af499aa7610d2095ccd6e2",
+      "text": "Copy.Ai",
+      "url": "https://www.copy.ai/"
+    },
+    {
+      "id": "2fcadb5c9e5d46968ddd4ce2c2591238",
+      "parent": "noi@dev",
+      "text": "AnythingLLM",
+      "url": "https://useanything.com/"
+    },
+    {
+      "id": "85e97d84f96b49129fc3510a0cc23193",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Writing Assitant - writesonic",
+      "url": "https://writesonic.com/"
+    },
+    {
+      "id": "bce3728315334e7897a50afc04df2e5b",
+      "parent": "noi@design",
+      "dir": true,
+      "text": "Logos"
+    },
+    {
+      "id": "b3fbbe112f5040369384e313f1ba04d0",
+      "parent": "bce3728315334e7897a50afc04df2e5b",
+      "text": "Looka - Logo Designer",
+      "url": "https://looka.com/"
+    },
+    {
+      "id": "7288de687b85414eae7fa1f0d81eaf98",
+      "parent": "noi@design",
+      "text": "Remova objetos de Fotos - photoroom.com",
+      "url": "https://www.photoroom.com/pt-br/ferramentas/remover-objetos-de-fotos"
+    },
+    {
+      "id": "a65ca07d33094627992b26f868b20606",
+      "parent": "noi@design",
+      "text": "Generative imaging - astria.ai",
+      "url": "https://www.astria.ai/"
+    },
+    {
+      "id": "4b280d3630ef43f49dfaa80391301a37",
+      "parent": "noi@design",
+      "text": "Gerador de Arte - promeai.pro",
+      "url": "https://www.promeai.pro/pt"
+    },
+    {
+      "id": "577e124e9d374eceb40f013447f73c91",
+      "parent": "noi@dev",
+      "text": "Web Simulator - websim.ai",
+      "url": "https://websim.ai/"
+    },
+    {
+      "id": "1d814b788c064c28afb5a8de1e076f7c",
+      "parent": "noi@design",
+      "text": "Portrait Image Animation - hallo",
+      "url": "https://fudan-generative-vision.github.io/hallo/#/"
+    },
+    {
+      "id": "50ddd1c2ea3c4c90af1a6b8dd58b066d",
+      "parent": "noi@design",
+      "text": "Music Generator - udiio.com",
+      "url": "https://www.udio.com/"
+    },
+    {
+      "id": "0ac91e352fde4f959bdb167171161840",
+      "parent": "noi@design",
+      "text": "Video for everyone - hedra.com",
+      "url": "https://www.hedra.com/"
+    },
+    {
+      "id": "265c6b8ba2f14071b0a1f68f42079060",
+      "parent": "800004bcf6154546b5c904cf6b5ef978",
+      "text": "Prototype your product ideas with AI - magicpatterns.com",
+      "url": "https://www.magicpatterns.com/"
+    },
+    {
+      "id": "1609baa49785482abc9029783db0d26f",
+      "parent": "800004bcf6154546b5c904cf6b5ef978",
+      "text": "AI Search Engine for Research - consensus.app",
+      "url": "https://consensus.app/"
+    },
+    {
+      "id": "c9503b7c6d5d48b39298fc230c577613",
+      "parent": "800004bcf6154546b5c904cf6b5ef978",
+      "text": "Your All-in-One Study Space - monic.ai",
+      "url": "https://monic.ai/"
+    },
+    {
+      "id": "115a44367ece49908fa3ae3d22cde585",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Presentations - Gamma.app",
+      "url": "https://gamma.app/"
+    },
+    {
+      "id": "f748b0bdd8e9427fa68367a726a2d7b3",
+      "parent": "noi@design",
+      "text": "Turn  * into videos with AI voices - flicki.ai",
+      "url": "https://fliki.ai/"
+    },
+    {
+      "id": "8f3be67a221f4d2199c18c81b6df1cbd",
+      "parent": "800004bcf6154546b5c904cf6b5ef978",
+      "text": "Brainstorm com AI - Ideamap.ai",
+      "url": "https://ideamap.ai/"
+    },
+    {
+      "id": "24e26d1368044e02af0efba7acf51882",
+      "parent": "noi@design",
+      "text": "Videos - Lumalabs.ai",
+      "url": "https://lumalabs.ai/dream-machine"
+    },
+    {
+      "id": "56f087cac97c4a89bb7a636236cc16b9",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Writing Assistant - grammarly.com",
+      "url": "https://www.grammarly.com/"
+    },
+    {
+      "id": "60c971e805b740ae8b784d07a3b81f69",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Tradução - deepl.com",
+      "url": "https://www.deepl.com/pt-BR/translator"
+    },
+    {
+      "id": "876ff680ba0049318ec9cf47e7b17501",
+      "parent": "noi@ai",
+      "text": "BlackBox",
+      "url": "https://blackbox.ai"
+    },
+    {
+      "id": "1fa339ecdeb540c6b26a912ef445ea8c",
+      "parent": "d2f107aea8af499aa7610d2095ccd6e2",
+      "text": "Build Fully Autonomous AI Agents",
+      "url": "http://lyzr.ai/"
+    },
+    {
+      "id": "064997c2f1d94080aa72908d67803cf0",
+      "parent": "d2f107aea8af499aa7610d2095ccd6e2",
+      "text": " AI Agent for repetitive tasks - bardeen.ai",
+      "url": "https://www.bardeen.ai/"
+    },
+    {
+      "id": "87da7d9ad65145b990434fe01746b5a6",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "AI meeting notes - tldv.io",
+      "url": "https://tldv.io/pt-br/"
+    },
+    {
+      "id": "02bdefa7e6a54b9d9dcba9357cc73939",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Meeting Transcript - tactiq.io",
+      "url": "https://tactiq.io/"
+    },
+    {
+      "id": "d891506b45eb4012a40008a4df888870",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "AI Writer - GravityWrite",
+      "url": "https://gravitywrite.com/"
+    },
+    {
+      "id": "ef06bddaf55e495fa86f72dc0d52c857",
+      "parent": "d41ed7d2ccda40e89809ba389add0142",
+      "text": "Aprenda, crie e edite com facilidade",
+      "url": "https://aithor.com/pt-br"
+    },
+    {
+      "id": "5ebf23cc02254997abc1bc8f9a9a6d5c",
+      "parent": "noi@design",
+      "text": "Art Generator - Davinci.Ai",
+      "url": "https://davinci.ai/"
+    },
+    {
+      "id": "fbe1015a452c47a88c9131d091a332f5",
+      "parent": "noi@design",
+      "text": "Image generator - Leonardo.Ai",
+      "url": "https://leonardo.ai/"
+    },
+    {
+      "id": "d34e7c6319db43f78d68bcb4d97b6f78",
+      "parent": "noi@dev",
+      "text": "Open and portable generative AI for devs and businesses.",
+      "url": "https://mistral.ai/"
+    },
+    {
+      "id": "065b41e63e194c1ead81a35f211ad48e",
+      "parent": "noi@dev",
+      "text": "Build Generative AI Apps with Our Advanced Open-Source Stack",
+      "url": "https://dify.ai/"
+    },
+    {
+      "id": "4a02bcfd8a09490e91dc53d33fb4c4b5",
+      "parent": "noi@dev",
+      "text": "A unified interface for LLMs - OpenRouter",
+      "url": "https://openrouter.ai/"
+    },
+    {
+      "id": "cf958c84feb540d39ca81580c06e1e27",
+      "parent": "noi@design",
+      "text": "Sora AI Video Generator",
+      "url": "https://www.soraai.onl/"
+    },
+    {
+      "id": "4d6cc35f5fef40708f0721dafe6d8317",
+      "parent": "noi@design",
+      "text": "VIDEO ON COMMAND",
+      "url": "https://pika.art/home"
+    },
+    {
+      "id": "e82b41b152da439db368ff57e47c0ff6",
+      "parent": "noi@dev",
+      "text": "Build software, better",
+      "url": "https://replit.com/login?source=home&goto=%2F%7E"
+    },
+    {
+      "id": "287a2572729a45b6afd7e23cd4e643c9",
+      "parent": "noi@design",
+      "text": "Create viral shorts in seconds with AI 🚀",
+      "url": "https://www.submagic.co/"
+    },
+    {
+      "id": "548c23ddebee4bbfbd5baf7d1e8fc112",
+      "parent": "noi@design",
+      "text": "Effortlessly create graphics .. - Pictorial",
+      "url": "https://www.pictorial.ai/"
+    },
+    {
+      "id": "0880ddc0281c4538bfd0787123eeba90",
+      "parent": "noi@design",
+      "text": "Eightify - Video sumario",
+      "url": "https://eightify.app/"
+    },
+    {
+      "id": "aac58b3f707543dc92b80f6694b7d9f6",
+      "parent": "noi@design",
+      "text": "Heygen - Video",
+      "url": "https://www.heygen.com/",
+      "checked": true
+    },
+    {
+      "id": "d3f40b3e84f642de8444e10c779cbbce",
+      "parent": "noi@design",
+      "text": "Midjourney",
+      "url": "https://www.midjourney.com/home"
+    },
+    {
+      "id": "86913e89cad9414881844d8a17bf96c9",
+      "parent": "noi@design",
+      "text": "OpusClip - Video Clipping Tool",
+      "url": "https://www.opus.pro/"
+    },
+    {
+      "id": "480f15b24d3f4b6e8e3a1b5b02384c68",
+      "parent": "noi@design",
+      "text": "StockImg.AI",
+      "url": "https://stockimg.ai/"
+    },
+    {
+      "id": "9ced1ca6f8504bd29c96cadde4d70770",
+      "parent": "noi@design",
+      "text": "Runaway",
+      "url": "https://app.runwayml.com/login"
+    },
+    {
+      "id": "562ffa28a4ca4f81b397d45cdef10b04",
+      "parent": "noi@design",
+      "text": "PicWish",
+      "url": "https://picwish.com/"
+    },
+    {
+      "id": "0d69a6bede93419f8c136a76a9e9b2fa",
+      "parent": "noi@design",
+      "text": "Creatify - Videos Ad",
+      "url": "https://creatify.ai/?gad_source=1"
+    },
+    {
+      "id": "4f2ed1e5c9eb4dc5a3ebdc62ea07d8a2",
+      "parent": "noi@design",
+      "text": "VideoLeapApp",
+      "url": "https://www.videoleapapp.com/"
+    },
+    {
+      "id": "2aeb0e7b5e5a4dcfafb69ba18af7fce5",
+      "parent": "noi@design",
+      "text": "Flair - Design Fotos",
+      "url": "https://flair.ai/"
+    },
+    {
+      "id": "e3be5cfedbdc4232847af82a6f663714",
+      "parent": "noi@design",
+      "text": "10web - Criar Websites",
+      "url": "https://10web.io/"
+    },
+    {
+      "id": "d41ed7d2ccda40e89809ba389add0142",
+      "parent": 0,
+      "dir": true,
+      "text": "Textos, Copy, Transcript"
+    },
+    {
+      "id": "d2f107aea8af499aa7610d2095ccd6e2",
+      "parent": 0,
+      "dir": true,
+      "text": "Automação"
+    },
+    {
+      "id": "800004bcf6154546b5c904cf6b5ef978",
+      "parent": 0,
+      "dir": true,
+      "text": "Produtividade"
+    },
+    {
+      "id": "db796d219be747ffa940791f921f7a45",
+      "parent": "noi@ai",
+      "text": "Meta.ai",
+      "url": "https://www.meta.ai/"
+    },
+    {
+      "id": "1594284b96774aa98141b218b986fb6f",
+      "parent": "noi@ai",
+      "text": "MyMind - Remember Everything",
+      "url": "https://mymind.com/"
+    },
+    {
+      "id": "18368c1472b549d086d180a916194851",
+      "parent": "noi@ai",
+      "text": "Grok X",
+      "url": "https://x.ai/"
+    },
+    {
+      "id": "259ee160b9fa45d999b11c9898027b93",
+      "parent": "noi@dev",
+      "text": "AI Code Converter(Generator | Translator)",
+      "url": "https://aicodeconvert.com/"
+    }
+  ]
+}
