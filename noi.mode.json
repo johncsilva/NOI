@@ -1,12 +1,164 @@
 {
   "name": "Noi User Mode",
-  "mode_main": "https://www.midjourney.com/home",
+  "mode_main": "https://app.suno.ai",
   "mode_tray": "https://chat.openai.com",
   "mode_partition": "",
   "ua_main": "",
   "ua_tray": "",
-  "noi_ask": [],
+  "noi_ask": [
+    "noi:suno"
+  ],
   "modes": [
+    {
+      "id": "ef31edc3c01f446fa35315001df51251",
+      "parent": "0d10c27555b94c12a5dd7551877a4a1c",
+      "text": "VocalRemover",
+      "url": "https://vocalremover.org/"
+    },
+    {
+      "id": "1c17a727a2304741b834a5e18af1390a",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "CGDream AI Image Generator",
+      "url": "https://cgdream.ai/"
+    },
+    {
+      "id": "0d69a6bede93419f8c136a76a9e9b2fa",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Creatify - Videos Ad",
+      "url": "https://creatify.ai/?gad_source=1"
+    },
+    {
+      "id": "4f2ed1e5c9eb4dc5a3ebdc62ea07d8a2",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "VideoLeapApp",
+      "url": "https://www.videoleapapp.com/"
+    },
+    {
+      "id": "2aeb0e7b5e5a4dcfafb69ba18af7fce5",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Flair - Design Fotos",
+      "url": "https://flair.ai/"
+    },
+    {
+      "id": "562ffa28a4ca4f81b397d45cdef10b04",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "PicWish",
+      "url": "https://picwish.com/"
+    },
+    {
+      "id": "480f15b24d3f4b6e8e3a1b5b02384c68",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "StockImg.AI",
+      "url": "https://stockimg.ai/"
+    },
+    {
+      "id": "d3f40b3e84f642de8444e10c779cbbce",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Midjourney",
+      "url": "https://www.midjourney.com/home"
+    },
+    {
+      "id": "aac58b3f707543dc92b80f6694b7d9f6",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Heygen - Video",
+      "url": "https://www.heygen.com/"
+    },
+    {
+      "id": "548c23ddebee4bbfbd5baf7d1e8fc112",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Effortlessly create graphics .. - Pictorial",
+      "url": "https://www.pictorial.ai/"
+    },
+    {
+      "id": "287a2572729a45b6afd7e23cd4e643c9",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Create viral shorts in seconds with AI 🚀",
+      "url": "https://www.submagic.co/"
+    },
+    {
+      "id": "4d6cc35f5fef40708f0721dafe6d8317",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "VIDEO ON COMMAND",
+      "url": "https://pika.art/home"
+    },
+    {
+      "id": "cf958c84feb540d39ca81580c06e1e27",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Sora AI Video Generator",
+      "url": "https://www.soraai.onl/"
+    },
+    {
+      "id": "fbe1015a452c47a88c9131d091a332f5",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Image generator - Leonardo.Ai",
+      "url": "https://leonardo.ai/"
+    },
+    {
+      "id": "1d814b788c064c28afb5a8de1e076f7c",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Portrait Image Animation - hallo",
+      "url": "https://fudan-generative-vision.github.io/hallo/#/"
+    },
+    {
+      "id": "0ac91e352fde4f959bdb167171161840",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Video for everyone - hedra.com",
+      "url": "https://www.hedra.com/"
+    },
+    {
+      "id": "5ebf23cc02254997abc1bc8f9a9a6d5c",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Art Generator - Davinci.Ai",
+      "url": "https://davinci.ai/"
+    },
+    {
+      "id": "f748b0bdd8e9427fa68367a726a2d7b3",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Turn  * into videos with AI voices - flicki.ai",
+      "url": "https://fliki.ai/"
+    },
+    {
+      "id": "24e26d1368044e02af0efba7acf51882",
+      "parent": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "text": "Videos - Lumalabs.ai",
+      "url": "https://lumalabs.ai/dream-machine"
+    },
+    {
+      "id": "4b280d3630ef43f49dfaa80391301a37",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Gerador de Arte - promeai.pro",
+      "url": "https://www.promeai.pro/pt"
+    },
+    {
+      "id": "a65ca07d33094627992b26f868b20606",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Generative imaging - astria.ai",
+      "url": "https://www.astria.ai/"
+    },
+    {
+      "id": "cdd3da159489423eb5db1630c0c662f0",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Ideogram.Ai",
+      "url": "https://ideogram.ai/"
+    },
+    {
+      "id": "0e8f26ad1be9467a98dbf429999aa14f",
+      "parent": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "text": "Aura Flow",
+      "url": "https://replicate.com/fofr/aura-flow"
+    },
+    {
+      "id": "d98fead9f2df4423b4e92304e3199921",
+      "parent": "0d10c27555b94c12a5dd7551877a4a1c",
+      "text": "ilovesong.ai",
+      "url": "https://ilovesong.ai"
+    },
+    {
+      "id": "50ddd1c2ea3c4c90af1a6b8dd58b066d",
+      "parent": "0d10c27555b94c12a5dd7551877a4a1c",
+      "text": "Music Generator - udiio.com",
+      "url": "https://www.udio.com/"
+    },
     {
       "id": "3eae38dc32ed4b0f9e7578bc0a12da9c",
       "parent": "noi@design",
@@ -41,7 +193,7 @@
       "id": "38707893e157447b8a5ba6c834419ae6",
       "parent": "noi@ai",
       "dir": true,
-      "text": "Centralizadores"
+      "text": "Buscar AI's (Hubs)"
     },
     {
       "id": "ae143e2d0533430ead9b91928b69ee4b",
@@ -80,46 +232,35 @@
       "url": "https://looka.com/"
     },
     {
+      "id": "0d10c27555b94c12a5dd7551877a4a1c",
+      "parent": "noi@design",
+      "dir": true,
+      "text": "Musicas",
+      "checked": true
+    },
+    {
+      "id": "8b2e2dbda0394aadb94149525b4d3c6b",
+      "parent": "noi@design",
+      "dir": true,
+      "text": "Imagens"
+    },
+    {
+      "id": "bf4d06cf5bfd4b3596b2c0b23b43d4b8",
+      "parent": "noi@design",
+      "dir": true,
+      "text": "Videos"
+    },
+    {
       "id": "7288de687b85414eae7fa1f0d81eaf98",
       "parent": "noi@design",
       "text": "Remova objetos de Fotos - photoroom.com",
       "url": "https://www.photoroom.com/pt-br/ferramentas/remover-objetos-de-fotos"
     },
     {
-      "id": "a65ca07d33094627992b26f868b20606",
-      "parent": "noi@design",
-      "text": "Generative imaging - astria.ai",
-      "url": "https://www.astria.ai/"
-    },
-    {
-      "id": "4b280d3630ef43f49dfaa80391301a37",
-      "parent": "noi@design",
-      "text": "Gerador de Arte - promeai.pro",
-      "url": "https://www.promeai.pro/pt"
-    },
-    {
       "id": "577e124e9d374eceb40f013447f73c91",
       "parent": "noi@dev",
       "text": "Web Simulator - websim.ai",
       "url": "https://websim.ai/"
-    },
-    {
-      "id": "1d814b788c064c28afb5a8de1e076f7c",
-      "parent": "noi@design",
-      "text": "Portrait Image Animation - hallo",
-      "url": "https://fudan-generative-vision.github.io/hallo/#/"
-    },
-    {
-      "id": "50ddd1c2ea3c4c90af1a6b8dd58b066d",
-      "parent": "noi@design",
-      "text": "Music Generator - udiio.com",
-      "url": "https://www.udio.com/"
-    },
-    {
-      "id": "0ac91e352fde4f959bdb167171161840",
-      "parent": "noi@design",
-      "text": "Video for everyone - hedra.com",
-      "url": "https://www.hedra.com/"
     },
     {
       "id": "265c6b8ba2f14071b0a1f68f42079060",
@@ -146,22 +287,10 @@
       "url": "https://gamma.app/"
     },
     {
-      "id": "f748b0bdd8e9427fa68367a726a2d7b3",
-      "parent": "noi@design",
-      "text": "Turn  * into videos with AI voices - flicki.ai",
-      "url": "https://fliki.ai/"
-    },
-    {
       "id": "8f3be67a221f4d2199c18c81b6df1cbd",
       "parent": "800004bcf6154546b5c904cf6b5ef978",
       "text": "Brainstorm com AI - Ideamap.ai",
       "url": "https://ideamap.ai/"
-    },
-    {
-      "id": "24e26d1368044e02af0efba7acf51882",
-      "parent": "noi@design",
-      "text": "Videos - Lumalabs.ai",
-      "url": "https://lumalabs.ai/dream-machine"
     },
     {
       "id": "56f087cac97c4a89bb7a636236cc16b9",
@@ -218,18 +347,6 @@
       "url": "https://aithor.com/pt-br"
     },
     {
-      "id": "5ebf23cc02254997abc1bc8f9a9a6d5c",
-      "parent": "noi@design",
-      "text": "Art Generator - Davinci.Ai",
-      "url": "https://davinci.ai/"
-    },
-    {
-      "id": "fbe1015a452c47a88c9131d091a332f5",
-      "parent": "noi@design",
-      "text": "Image generator - Leonardo.Ai",
-      "url": "https://leonardo.ai/"
-    },
-    {
       "id": "d34e7c6319db43f78d68bcb4d97b6f78",
       "parent": "noi@dev",
       "text": "Open and portable generative AI for devs and businesses.",
@@ -248,34 +365,10 @@
       "url": "https://openrouter.ai/"
     },
     {
-      "id": "cf958c84feb540d39ca81580c06e1e27",
-      "parent": "noi@design",
-      "text": "Sora AI Video Generator",
-      "url": "https://www.soraai.onl/"
-    },
-    {
-      "id": "4d6cc35f5fef40708f0721dafe6d8317",
-      "parent": "noi@design",
-      "text": "VIDEO ON COMMAND",
-      "url": "https://pika.art/home"
-    },
-    {
       "id": "e82b41b152da439db368ff57e47c0ff6",
       "parent": "noi@dev",
       "text": "Build software, better",
       "url": "https://replit.com/login?source=home&goto=%2F%7E"
-    },
-    {
-      "id": "287a2572729a45b6afd7e23cd4e643c9",
-      "parent": "noi@design",
-      "text": "Create viral shorts in seconds with AI 🚀",
-      "url": "https://www.submagic.co/"
-    },
-    {
-      "id": "548c23ddebee4bbfbd5baf7d1e8fc112",
-      "parent": "noi@design",
-      "text": "Effortlessly create graphics .. - Pictorial",
-      "url": "https://www.pictorial.ai/"
     },
     {
       "id": "0880ddc0281c4538bfd0787123eeba90",
@@ -284,59 +377,16 @@
       "url": "https://eightify.app/"
     },
     {
-      "id": "aac58b3f707543dc92b80f6694b7d9f6",
-      "parent": "noi@design",
-      "text": "Heygen - Video",
-      "url": "https://www.heygen.com/",
-      "checked": true
-    },
-    {
-      "id": "d3f40b3e84f642de8444e10c779cbbce",
-      "parent": "noi@design",
-      "text": "Midjourney",
-      "url": "https://www.midjourney.com/home"
-    },
-    {
       "id": "86913e89cad9414881844d8a17bf96c9",
       "parent": "noi@design",
       "text": "OpusClip - Video Clipping Tool",
       "url": "https://www.opus.pro/"
     },
     {
-      "id": "480f15b24d3f4b6e8e3a1b5b02384c68",
-      "parent": "noi@design",
-      "text": "StockImg.AI",
-      "url": "https://stockimg.ai/"
-    },
-    {
       "id": "9ced1ca6f8504bd29c96cadde4d70770",
       "parent": "noi@design",
       "text": "Runaway",
       "url": "https://app.runwayml.com/login"
-    },
-    {
-      "id": "562ffa28a4ca4f81b397d45cdef10b04",
-      "parent": "noi@design",
-      "text": "PicWish",
-      "url": "https://picwish.com/"
-    },
-    {
-      "id": "0d69a6bede93419f8c136a76a9e9b2fa",
-      "parent": "noi@design",
-      "text": "Creatify - Videos Ad",
-      "url": "https://creatify.ai/?gad_source=1"
-    },
-    {
-      "id": "4f2ed1e5c9eb4dc5a3ebdc62ea07d8a2",
-      "parent": "noi@design",
-      "text": "VideoLeapApp",
-      "url": "https://www.videoleapapp.com/"
-    },
-    {
-      "id": "2aeb0e7b5e5a4dcfafb69ba18af7fce5",
-      "parent": "noi@design",
-      "text": "Flair - Design Fotos",
-      "url": "https://flair.ai/"
     },
     {
       "id": "e3be5cfedbdc4232847af82a6f663714",
